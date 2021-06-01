@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-color: darkblue;
+}
+#myCarousel {
+    background-color:bisque;
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+.carousel-inner {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color:darkmagenta;
+    font-size: 20px;
+}
+.image{
+    height: 150px;
+    width: 170px;
+}
+#Grids{
+    background-color:aquamarine;
+}
+.homepic{
+    height: 200px;
+    width: 250px;
+}
+#homep{
+    font-size: 30px;
+    font-family: fantasy;
+}
+#home{
+    background-color:coral;
+}
